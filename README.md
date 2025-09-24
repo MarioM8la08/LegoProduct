@@ -2,5 +2,6 @@
 
 ## Diagramma UML
 
-![Diagramma UML](LegoUM.png)
+![Diagramma UML](LegoUML.png)
+
 
